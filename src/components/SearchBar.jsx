@@ -9,7 +9,6 @@ class SearchBar extends Component {
     event.preventDefault();
     // submit search value to the app component
     this.props.onSubmit(this.state.term);
-    this.setState({term: ''})
   }
 
   render() {
