@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de3974b9-a4f6-4a43-90da-177c71f8c4bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ImageList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageList.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -35,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -79,7 +82,8 @@
       <workItem from="1607566071611" duration="535000" />
       <workItem from="1607566628685" duration="8694000" />
       <workItem from="1607590932185" duration="111000" />
-      <workItem from="1607644374756" duration="2047000" />
+      <workItem from="1607644374756" duration="3440000" />
+      <workItem from="1607815975908" duration="3411000" />
     </task>
     <task id="LOCAL-00001" summary="loading searched images from unsplash api next up is to make the images display in an image viewer component">
       <created>1607589386798</created>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607590960199</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="app done other than styling that is next">
+      <created>1607646695434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607646695434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="loading searched images from unsplash api next up is to make the images display in an image viewer component" />
     <MESSAGE value="small searchbar fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="small searchbar fix" />
+    <MESSAGE value="app done other than styling that is next" />
+    <option name="LAST_COMMIT_MESSAGE" value="app done other than styling that is next" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
