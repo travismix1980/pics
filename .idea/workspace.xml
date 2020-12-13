@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de3974b9-a4f6-4a43-90da-177c71f8c4bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ImageCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ImageList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageList.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="de3974b9-a4f6-4a43-90da-177c71f8c4bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +77,7 @@
       <workItem from="1607566628685" duration="8694000" />
       <workItem from="1607590932185" duration="111000" />
       <workItem from="1607644374756" duration="3440000" />
-      <workItem from="1607815975908" duration="3411000" />
+      <workItem from="1607815975908" duration="3770000" />
     </task>
     <task id="LOCAL-00001" summary="loading searched images from unsplash api next up is to make the images display in an image viewer component">
       <created>1607589386798</created>
@@ -106,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607646695434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="styling added with dynamic styling for image spacing">
+      <created>1607819713289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607819713289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +129,8 @@
     <MESSAGE value="loading searched images from unsplash api next up is to make the images display in an image viewer component" />
     <MESSAGE value="small searchbar fix" />
     <MESSAGE value="app done other than styling that is next" />
-    <option name="LAST_COMMIT_MESSAGE" value="app done other than styling that is next" />
+    <MESSAGE value="styling added with dynamic styling for image spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling added with dynamic styling for image spacing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
