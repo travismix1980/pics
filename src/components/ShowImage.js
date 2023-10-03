@@ -4,6 +4,7 @@ function ShowImage({ pics }) {
 
   return (
     <div>
+      {pics.results.map((pic) => <img src={pic.urls.small} alt="pic" height="300px" />)}
     </div>
   );
 }
